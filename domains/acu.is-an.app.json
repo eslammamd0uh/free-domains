@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+  "description": "A Node.js chat app",
+  "domain": "is-an.app",
+  "subdomain": "mason",
+  "owner": {
+    "repo": "198.252.108.149",
+    "email": "eslammamdouh369@gmail.com"
+  },
+  "record": {
+    "A": ["198.252.108.149"]
+  },
+  "proxy": false
+}
